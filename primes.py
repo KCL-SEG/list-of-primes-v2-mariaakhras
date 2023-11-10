@@ -14,7 +14,7 @@ def is_prime(n):
             return False
         i += 6
     return True 
-
+#Why is def primes defined twice?
 def primes(number_of_primes):
     list = []
     return list
